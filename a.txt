@@ -1,0 +1,1 @@
+PhotoSize(file_id='AgACAgEAAxkBAAIBRWPJpL288QwEVmgKs0RXxo0m5bdzAAK6qjEbvbtRRolhedIgnK-DAQADAgADeQADLQQ', file_size=179239, file_unique_id='AQADuqoxG727UUZ-', height=1280, width=870)
